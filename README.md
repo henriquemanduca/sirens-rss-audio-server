@@ -2,7 +2,7 @@
 
 ## 🌐 Descrição
 
-![Sirens](./assets/banner.jpg)
+![Sirens](https://raw.githubusercontent.com/henriquemanduca/cdn/refs/heads/main/assets/sirens_banner.jpg)
 As Sirens são criaturas míticas do mundo marítimo, envoltas em um véu de encantamento e perigo. Dotadas de vozes irresistíveis, elas emitem canções que ecoarem pelos vastos oceanos, atraem marinheiros a se aventurarem rumo ao desconhecido. Esses seres lendários, com sua beleza enigmática  simbolizam a dualidade entre o fascínio por um encanto fatal e a natureza implacável dos mistérios do mar.
 
 
