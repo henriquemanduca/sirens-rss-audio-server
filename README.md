@@ -1,11 +1,9 @@
-# 📦 Servidor de audio em formato RSS
+# 📦 Serviço em formato RSS
 
 ## 🌐 Descrição
 
 ![Sirens](https://raw.githubusercontent.com/henriquemanduca/cdn/refs/heads/main/assets/sirens_banner.jpg)
-As Sirens são criaturas míticas do mundo marítimo, envoltas em um véu de encantamento e perigo. Dotadas de vozes irresistíveis, elas emitem canções que ecoarem pelos vastos oceanos, atraem marinheiros a se aventurarem rumo ao desconhecido. Esses seres lendários, com sua beleza enigmática  simbolizam a dualidade entre o fascínio por um encanto fatal e a natureza implacável dos mistérios do mar.
-
-
+As Sirens são criaturas míticas do mundo marítimo, dotadas de vozes irresistíveis, elas emitem canções que atraem marinheiros rumo ao desconhecido.
 
 **Conteúdo do Repositório:**
 
@@ -13,7 +11,7 @@ As Sirens são criaturas míticas do mundo marítimo, envoltas em um véu de enc
 
 ## 🚀 Como usar:
 
-
+* por fazer...
 
 ## 🤝 Contribuição
 
@@ -29,6 +27,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## 🌐 Recursos Adicionais:
 
+* por fazer...
 
 ## 📧 Contato
 
