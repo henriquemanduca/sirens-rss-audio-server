@@ -21,6 +21,8 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correç
 
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 
+Melhorias e tarefas planejadas, consulte a [To-Do List](TODO.md).
+
 ## 📄 Licença
 
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
